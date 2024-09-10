@@ -15,9 +15,9 @@ nav {
     width: 70%;
 }
 
-.text-white {
+/* .text-white {
     color: white;
-}
+} */
 
 .hero {
     background-image: url(../images/hero-bg.png);
@@ -34,7 +34,7 @@ nav {
     font-size: 16px;
 }
 
-.hero-info {
+/* .hero-info {
     width: 50%;
     padding-top: 48px;
-}
+} */
